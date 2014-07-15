@@ -1,5 +1,4 @@
 #Ruby Examples
-===
 
 Ruby example programs. These are sample codes I used to practise while learning Ruby in 2013.
 
@@ -38,3 +37,22 @@ mazhar@stsbd.com<br>
 - iterator.rb
 - singleton.rb
 - vars.rb
+
+
+###Example Code
+
+```
+print "Please, enter your Celsius value: "
+celsius = gets
+fahrenheit = (celsius.to_i * 9 / 5) + 32
+print "The Fahrenheit value is "
+print fahrenheit
+puts '.'
+
+
+def alu
+	'alu re alu , bol kida tor khalu'
+end
+
+puts alu
+```
