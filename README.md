@@ -3,6 +3,8 @@
 Ruby example programs. These are sample codes I used to practise while learning Ruby in 2013.
 
 ##Author Information
+
+![Mazhar Ahmed](/sign.png)<br>
 Mazhar Ahmed<br>
 Director of Engineering at [ST Solutions International LLC](http://www.stsbd.com)<br>
 mazhar@stsbd.com<br>
