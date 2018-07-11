@@ -1,13 +1,13 @@
-#Ruby Examples
+# Ruby Examples
 
 Ruby example programs. These are sample codes I used to practise while learning Ruby in 2013.
 
-##Author Information
+## Author Information
 
 Mazhar Ahmed  
 CTO at [Systech Unimax](http://www.systechunimax.com/)  
 
-###Ruby Source Files
+### Ruby Source Files
 
 - chatter.rb
 - loops.rb
