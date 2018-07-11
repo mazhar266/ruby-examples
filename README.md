@@ -4,11 +4,8 @@ Ruby example programs. These are sample codes I used to practise while learning 
 
 ##Author Information
 
-![Mazhar Ahmed](/sign.png)<br>
-Mazhar Ahmed<br>
-Director of Engineering at [ST Solutions International LLC](http://www.stsbd.com)<br>
-mazhar@stsbd.com<br>
-[www.mazharAhmed.me](http://mazharahmed.me)
+Mazhar Ahmed  
+CTO at [Systech Unimax](http://www.systechunimax.com/)  
 
 ###Ruby Source Files
 
