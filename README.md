@@ -38,7 +38,7 @@ CTO at [Systech Unimax](http://www.systechunimax.com/)
 - vars.rb
 
 
-###Example Code
+### Example Code
 
 ```
 print "Please, enter your Celsius value: "
